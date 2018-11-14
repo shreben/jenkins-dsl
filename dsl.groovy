@@ -3,4 +3,3 @@ job('TEST') {
       shell('echo Hello world')
       }
     }
-}
